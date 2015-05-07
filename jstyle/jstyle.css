@@ -28,13 +28,13 @@
 .deck-container {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   font-size: 1.75em;
-  background: url('dirty_old_shirt_50.png') #123;
-  background: url('dirty_old_shirt_50.png'), -moz-radial-gradient(center, ellipse cover, rgba(57, 89, 122, 1) 0%, rgba(17, 25, 51, 1) 100%);
-  background: url('dirty_old_shirt_50.png'), -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(57, 89, 122, 1)), color-stop(100%,rgba(17, 25, 51, 1)));
-  background: url('dirty_old_shirt_50.png'), -webkit-radial-gradient(center, ellipse cover, rgba(57, 89, 122, 1) 0%, rgba(17, 25, 51, 1) 100%);
-  background: url('dirty_old_shirt_50.png'), -o-radial-gradient(center, ellipse cover, rgba(57, 89, 122, 1) 0%, rgba(17, 25, 51, 1) 100%);
-  background: url('dirty_old_shirt_50.png'), -ms-radial-gradient(center, ellipse cover, rgba(57, 89, 122, 1) 0%, rgba(17, 25, 51, 1) 100%);
-  background: url('dirty_old_shirt_50.png'), radial-gradient(center, ellipse cover, rgba(57, 89, 122, 1) 0%, rgba(17, 25, 51, 1) 100%);
+  background: url('images/dirty_old_shirt_50.png') #123;
+  background: url('images/dirty_old_shirt_50.png'), -moz-radial-gradient(center, ellipse cover, rgba(57, 89, 122, 1) 0%, rgba(17, 25, 51, 1) 100%);
+  background: url('images/dirty_old_shirt_50.png'), -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(57, 89, 122, 1)), color-stop(100%,rgba(17, 25, 51, 1)));
+  background: url('images/dirty_old_shirt_50.png'), -webkit-radial-gradient(center, ellipse cover, rgba(57, 89, 122, 1) 0%, rgba(17, 25, 51, 1) 100%);
+  background: url('images/dirty_old_shirt_50.png'), -o-radial-gradient(center, ellipse cover, rgba(57, 89, 122, 1) 0%, rgba(17, 25, 51, 1) 100%);
+  background: url('images/dirty_old_shirt_50.png'), -ms-radial-gradient(center, ellipse cover, rgba(57, 89, 122, 1) 0%, rgba(17, 25, 51, 1) 100%);
+  background: url('images/dirty_old_shirt_50.png'), radial-gradient(center, ellipse cover, rgba(57, 89, 122, 1) 0%, rgba(17, 25, 51, 1) 100%);
   background-attachment: fixed;
 }
 
